@@ -47,6 +47,8 @@ Se realiza un **EDA (Exploratory Data Analysis)** para observar las relaciones, 
 
 Recomienda películas a los usuarios basándose en películas similares, se ordenan según el score de similaridad y devuelve una lista de Python con 5 valores, cada uno siendo el string del nombre de las películas con mayor puntaje, en orden descendente. Para el modelo se utilizo la **similitud del coseno**.
 
+[Sistema de recomendacion](https://sistema-recomendacion-f2hj.onrender.com/docs)
+
 ## Deployment
 
 Se utilizo **Render.com** para hacer el deploy de la API.
