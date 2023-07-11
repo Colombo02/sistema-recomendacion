@@ -52,10 +52,19 @@ Recomienda películas a los usuarios basándose en películas similares, se orde
 Se utilizo **Render.com** para hacer el deploy de la API.
 
 ## Diccionario de Datos
+
 [Diccionario](https://github.com/Colombo02/sistema-recomendacion/blob/main/Diccionario%20de%20Datos.pdf)
 
 ## Dataset
 
+[Datasets](https://drive.google.com/drive/folders/1mfUVyP3jS-UMdKHERknkQ4gaCRCO2e1v)
+
+[Dataset_limpio](https://github.com/Colombo02/sistema-recomendacion/tree/main/dataset_clean)
+
 ## Linkedin
 
 [Linkedin](linkedin.com/in/tomascolombo/)
+
+## Video Youtube
+
+[Youtube](youtube.com/video/Lj89lTLlr2g)
