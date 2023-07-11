@@ -65,8 +65,8 @@ Se utilizo **Render.com** para hacer el deploy de la API.
 
 ## Linkedin
 
-[Linkedin](linkedin.com/in/tomascolombo/)
+[Linkedin](https://linkedin.com/in/tomascolombo/)
 
 ## Video Youtube
 
-[Youtube](youtube.com/video/Lj89lTLlr2g)
+[Youtube](https://youtube.com/video/Lj89lTLlr2g)
