@@ -1,5 +1,4 @@
 # Proyecto Individual : Sistema de Recomendación</center>
-![Logo](https://github.com/Colombo02/sistema-recomendacion/blob/main/src/hernry.png)
 
 # <center>Machine Learning Operations (MLOps)</center> 
 ![Logo](https://github.com/Colombo02/sistema-recomendacion/blob/main/src/MlOps.png)
